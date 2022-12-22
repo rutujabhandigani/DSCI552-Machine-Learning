@@ -1,2 +1,2 @@
 
-DSCI 552 HW 3: Time Series Classification Feature Extraction/Creation
+DSCI 552 Homework 3: Time Series Classification Feature Extraction/Creation
