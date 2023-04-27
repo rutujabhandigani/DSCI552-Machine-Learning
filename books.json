@@ -1,0 +1,8 @@
+{ 
+    "_id" : 1, 
+    "ISBN" : 1933988673, 
+    "title" : "Unlocking Android", 
+    "author" : "W. Frank Ableson",  
+    "price" : 41, 
+    "description" : "Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools"
+}
